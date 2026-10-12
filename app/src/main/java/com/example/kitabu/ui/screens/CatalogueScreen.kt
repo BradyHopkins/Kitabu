@@ -98,7 +98,7 @@ fun CatalogueScreen(
             Spacer(modifier = Modifier.height(10.dp))
 
             Text(
-                text = "Find your next\nfavourite book.",
+                text = "Find your next book.",
                 color = Color.White,
                 fontSize = 29.sp,
                 lineHeight = 35.sp,
